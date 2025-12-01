@@ -6,15 +6,6 @@
   <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 </div>
 
-<style>
-.badge-container {
-  display: flex;
-  justify-content: center; /* 水平居中 */
-  align-items: center; /* 垂直居中 */
-  gap: 10px; /* 徽标之间的间距 */
-}
-</style>
-
 - 👋 我是一名普普通通的高中生
 - 📚 主修Html，Js，Css，Vue，Linux
 - 🪶 [我的博客](https://www.ruyuan.iccu)
