@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi I’m ruyuanya, Nice to meet you! 👋
+
+- 👋 我是一名普普通通的高中生
+- 📚 主修Html，Js，Css，Vue，Linux
+- 🪶 [我的博客](https://www.ruyuan.iccu)
 
 <!--
 **ruyuanya/ruyuanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
